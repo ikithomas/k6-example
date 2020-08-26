@@ -1,3 +1,8 @@
+
+Reference
+- https://k6.io/docs/getting-started/running-k6
+
+---
 # Install
 ```bash
 brew install k6
